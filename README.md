@@ -12,3 +12,26 @@ A simple music player application built using Python, utilizing the pygame libra
 - Displays the title of the current song using metadata.
 - Supports MP3 file formats.
 - Easy-to-use graphical interface.
+
+## Technologies Used
+
+- Python
+- pygame for audio playback
+- mutagen for ID3 tag handling
+- Tkinter for GUI
+
+## Installation
+
+1. Clone this repository.
+2. Install the required dependencies: pygame and mutagen.
+
+## pip install pygame mutagen
+Run the application.
+## python MusicPlayer.py
+
+## How to Use
+
+- Choose a directory containing MP3 files.
+- Use the buttons to navigate between songs or stop the music.
+- Enjoy your playlist with dynamic title display!
+
